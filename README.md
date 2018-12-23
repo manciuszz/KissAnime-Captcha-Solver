@@ -11,6 +11,8 @@ If you would like to help your fellow users out, please post your solution list 
 
 It's a fork and update of [https://greasyfork.org/en/scripts/369923-kissanime-captcha-solver](https://greasyfork.org/en/scripts/369923-kissanime-captcha-solver).
 
+This is certainly not a proper solution to this problem. Its just one of the ways. I still think cooking something up using machine learning would be a better alternative.
+
 ## Change-Log
 
 > Added ban interception feature.
